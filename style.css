@@ -212,7 +212,10 @@ header nav ul li a{
   margin-top: 50px;
 }
 
-
+form {
+  padding-right: 8px;
+  /* Fixed small sizing issue on the right */
+}
 
 form label {
   display: block;
