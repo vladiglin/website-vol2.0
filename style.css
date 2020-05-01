@@ -73,7 +73,7 @@ header nav ul li a{
 }
 
 .wrapper h1{
-  font-size: 5em;
+  font-size: 3em;
   color: white;
   text-align: center;
   margin: 0;
@@ -166,6 +166,9 @@ header nav ul li a{
     width: 80%;
     margin: auto;
     padding-top: 10px;
+  }
+  #landing h1{
+    font-size: 5em;
   }
   .about{
     margin-top: 20%;
